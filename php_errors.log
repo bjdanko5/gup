@@ -1,0 +1,2 @@
+[14-Mar-2017 14:26:11 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://192.168.10.180/zkh_rostov/ws/WebСервисLK?wsdl' : failed to load external entity "http://192.168.10.180/zkh_rostov/ws/Web%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81LK?wsdl"
+ in /home/ubuntu/workspace/my/1c.php on line 15
